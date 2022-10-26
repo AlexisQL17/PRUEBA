@@ -1,0 +1,75 @@
+  DevOps
+Es un ciclo infinito
+
+
+continuous integration
+deployeng
+equipo de desarrollo
+
+
+Continuos Testing
+-Gobierno Script
+-Ejecucion(Empaquetaba Maven, despues lo enviaba web,mobile)
+-Monitoreo(Revisión de resultado)
+
+Flujos end to end?
+Asegurar que el proceso funcione de inicio a fin, se comporta tal como lo usan los usuarios finales.
+
+Automatizacion de pruebas de regresion
+-Caso de prueba(Test case) ==>Parte funcional
+-Script de prueba(Test script)
+-Script automatizado(Automated script)
+-Test de ejecución(Executable test)
+
+Punto de partida es el Gherking
+
+MAVEN es una herramienta que se utiliza en build
+
+Usar log().all() no muestra todo lo que se esta ejecutando
+
+PATRONES DE DISEÑO
+Desarrollo
+-MVC
+-HEX
+QA Autamation
+-Page Object Model(POM)
+-Screen Play
+
+
+assertThat(10,is(10)): //Junit, Jupiter (Pruebas unitarias)
+Ejemplo de pruebas unitarias maven y Junit
+
+Assertions => Pruebas unitarias
+Cucumber(Es la tecnologia)
+Guerkin(Es el lenguaje)
+
+
+    mvn -U dependency:resolve
+​
+    mvn clean
+
+Gherkin - Redaccion de Guerkin
+Step Definition - Intermediarios, Por cada linea de Guerkin se define un metodo. Estos metods
+Steps conjunto de metodos implementados
+
+Para ejecutar una automatizacion debemos ejecurtarlo desde el runner
+
+
+1. Crear un archivo Feature
+2. Redactar en Guerkin
+3. Crear el StepDefinition
+4. Clonar el 
+
+locator id ++
+
+en web se agrega page object > parte visual. 
+cada variable debe tener s
+
+ERROR - LOG
+
+android studio
+SDK
+appiuum server
+appirum inspector
+node js
+
